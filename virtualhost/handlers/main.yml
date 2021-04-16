@@ -1,6 +1,0 @@
----
-# handlers file for virtualhost
-- name: restart service
-  service: 
-   name: httpd
-   state: restarted
